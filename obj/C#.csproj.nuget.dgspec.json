@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\C#\\C#.csproj": {}
+    "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\c#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\C#\\C#.csproj": {
+    "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\c#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\c#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\c#\\C#.csproj",
         "packagesPath": "C:\\Users\\OCEAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\C#\\obj\\",
+        "outputPath": "C:\\Users\\OCEAN\\Documents\\Triton\\FizBuz\\c#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
